@@ -2,7 +2,7 @@ It is possible to associate multiple aspects/behaviors with diagram elements usi
 You may have processors to generate documentation for multiple audiences and environments, multiple flavors of code (e.g. client libraries for different languages), infrastructure, ...
 You can also have aspects to use a diagram as a runtime artifact.
 
-Diagram authors may use �physical� URIs for aspects (processors) or �logical� which are mapped to physical. 
+Diagram authors may use "physical" URIs for aspects (processors) or "logical" which are mapped to physical. 
 E.g. you may have ``my-company://storage/large`` logical URI which would be mapped, for example, to a URI which provides logic to connect to an S3 Bucket in a cloud deployment and to a shared drive in an on-prem deployment.
 
 Diagram authors may also use libraries of reusable diagram elements with pre-configured aspects/processors.
