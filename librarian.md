@@ -1,4 +1,4 @@
-Librarians create YAML/JSON specifications Java, scripts and diagrams. 
+Librarians create YAML/JSON specifications for Java, script and diagram processors. 
 They may specify properties/bindings and, in the future releases, inheritance.
 
 Librarians also create and publish catalogs of available building blocks - Java/Maven modules, scripts, diagrams, URIs. 
@@ -8,7 +8,7 @@ Catalogs may have multiple dimensions - technology, organization, geography, ...
 
 For diagrams librarians also may create [libraries of reusable diagram elements](https://www.drawio.com/blog/custom-libraries), including groups of elements (patterns). 
 Libraries can be stored in a source repository system. 
-With GitHub libraries can be published using [GitHub Pages](https://pages.github.com/) or [JSDELIVR](https://www.jsdelivr.com/github) CDN. 
+With GitHub, libraries can be published using [GitHub Pages](https://pages.github.com/) or [JSDELIVR](https://www.jsdelivr.com/github) CDN. 
 Drawio browser app can load libraries from a multitude of sources, including GitHub.
 
 Librarians may also create and publish URI construction wizard applications where a URI is constructed based on user choices.
